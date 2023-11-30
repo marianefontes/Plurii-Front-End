@@ -19,7 +19,7 @@ Bem-vindos ao repositório do nosso Sistema de Reservas para o Garagino. Este pr
 # ⚙️ Instruções
 Para começar a trabalhar com este projeto, siga os passos abaixo!
 <dl>
-    1. Clone o repositório para sua máquina local:
+    1.Clone o repositório para sua máquina local:
    <dt>
       
       git clone url_do_repositório  
@@ -30,7 +30,7 @@ Para começar a trabalhar com este projeto, siga os passos abaixo!
       
       npm install
    </dt>
-    
+  
     3. Inicie o servidor de desenvolvimento:
    <dt>
       
@@ -42,6 +42,7 @@ Para começar a trabalhar com este projeto, siga os passos abaixo!
       
       npm run dev
    </dt>
+  
     5. Aplicação sendo executada com sucesso!
 </dl>
 
