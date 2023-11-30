@@ -2,8 +2,7 @@
 
 **Repositório de Origem:** https://github.com/tharaujo17/proj3-plurii-frontend 🤝
 
-<img src="" alt="equipe-plurii">
-
+<img src="https://github.com/anabxalves/anabxalves/assets/108446826/18072226-9184-45db-afb8-f283bd7faaeb"/>
 
 > Unindo experiências para criar soluções Plurais!
 ---
@@ -72,18 +71,6 @@ O layout completo da aplicação está disponível no Figma:
 <a href="link_pro_figma">
   <img src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
-
-## 📱 Telas
-
-<p align="center">
-  <img alt="tela1" title="#plurii" src="" width="200px">
-
-  <img alt="tela2" title="#plurii" src="" width="200px">
-  
-  <img alt="tela3" title="#plurii" src="." width="200px">
-  
-  <img alt="tela4" title="#plurii" src="" width="200px">
-</p>
 
 # 🤝 Integrantes da equipe
 <table>
