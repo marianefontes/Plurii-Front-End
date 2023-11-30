@@ -10,6 +10,18 @@
 # 🌟 Introdução
 Bem-vindos ao repositório do nosso Sistema de Reservas para o Garagino. Este projeto é um front-end desenvolvido com o intuito de proporcionar uma experiência de usuário suave e intuitiva para reservas de espaços de trabalho colaborativo.
 
+# 🤖 Cliente
+<table>
+   <tr>
+      <td>
+         <img src="https://github.com/anabxalves/abxaSHimp/assets/108446826/727024fd-ecdc-4ed6-b82d-7bd64a853ddb"/>
+      </td>
+      <td>
+         <i> O “Garagem” é um espaço maker equipado com maquinário, ferramentas e componentes eletrônicos destinado ao estudo e criação de artefatos físicos e interativos. Sendo o Garagino um grupo de estudos dentro do garagem. </i>
+      </td>
+   </tr>
+</table>
+
 # 🚀 Tecnologias Utilizadas
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -68,7 +80,7 @@ A interface do usuário foi projetada com atenção meticulosa aos detalhes. Uti
 
 O layout completo da aplicação está disponível no Figma:
 
-<a href="link_pro_figma">
+<a href="https://www.figma.com/file/TjWS7gPzge1Yv398tRMIGQ/Projetos-3_PlurII?type=design&node-id=260%3A2&mode=design&t=KjeyNiVJ65KGUi0n-1">
   <img src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
